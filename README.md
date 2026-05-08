@@ -10,6 +10,9 @@
   | Hola |
   | ---- |
 
+  [ ] Tarea 1
+  [ ] Tarea 2
+
 
 <!--
 **up250754lriv/up250754lriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
