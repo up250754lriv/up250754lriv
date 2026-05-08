@@ -6,9 +6,9 @@
     - Ingles B1 \
   [Curso](https://www.w3schools.com/) \
 
-  ---   
+  | ---- |  
   | Hola |
-  ---
+  | ---- |
 
 
 <!--
