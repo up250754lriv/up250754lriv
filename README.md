@@ -1,10 +1,10 @@
 # Hi there 👋
   --- 
   ***Hola a todos***
-  **Sobre mi**
-    - Estudiante de TIID /
-    - Ingles B1/
-  [ir a google](https://www.w3schools.com/)
+  **Sobre mi**\
+    - Estudiante de TIID \
+    - Ingles B1\\
+  [Curso](https://www.w3schools.com/)\
 
 
 <!--
