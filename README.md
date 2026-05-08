@@ -10,7 +10,7 @@
   | Hola |
   | ---- |
 
-  - [] Tarea 1
+  - [x] Tarea 1
   - [] Tarea 2
 
 
