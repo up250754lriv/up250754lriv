@@ -3,8 +3,8 @@
   ***Hola a todos***
   **Sobre mi**\
     - Estudiante de TIID \
-    - Ingles B1\\
-  [Curso](https://www.w3schools.com/)\
+    - Ingles B1 \
+  [Curso](https://www.w3schools.com/) \
 
 
 <!--
