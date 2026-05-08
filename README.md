@@ -2,7 +2,7 @@
   --- 
   ***Hola a todos***
   **Sobre mi**
-    - Estudiante de TIID
+    - Estudiante de TIID n\
     - Ingles B1
   [ir a google](https://www.w3schools.com/)
 
