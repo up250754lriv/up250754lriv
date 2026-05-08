@@ -7,7 +7,7 @@
   [Curso](https://www.w3schools.com/) \
 
   -----------    
-  | ###Hola |
+  | Hola |
   -----------
 
 
